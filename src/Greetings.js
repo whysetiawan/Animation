@@ -120,7 +120,7 @@ export default class Greetings extends Component {
           My Name is Wahyu Setiawan
         </Animated.Text>
         <Animated.Text style={[styles.instructions, { color: color }]}>
-          This app is just example
+          This app is contain about My Curriculum Vitae
         </Animated.Text>
         <Animated.Text style={[styles.instructions, { color: color }]}>
           Press the button bellow to continue
